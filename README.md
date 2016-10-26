@@ -6,7 +6,7 @@ This tool is a python port of Andy Wingo very useful mem_usage perl script with 
 improvements.
 
 ## Usage:
-usage: mem-usage.py [-h] (-p PID | -m MAPS)  
+usage: mem-usage.py \[-h] (-p PID | -m MAPS)  
 
 optional arguments:
 
